@@ -6,6 +6,7 @@ body {
     max-height: 300px;
     width: auto;
     object-fit: contain;
+    max-width: 100%;
 }
 
 .hidden {
